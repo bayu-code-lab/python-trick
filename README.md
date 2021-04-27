@@ -1,0 +1,2 @@
+# python-trick
+Trick python
